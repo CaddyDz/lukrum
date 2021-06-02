@@ -1,0 +1,218 @@
+Empty Image [large_rectangle]
+democib_large_rectangle_empty.png
+array:18 [
+    "asset_id" => "fb12f68bb4064c5280e8e218868775e6"
+    "public_id" => "demo/pmc/assets/dpwjacfpmuwdlexnb4ak"
+    "version" => 1620811070
+    "version_id" => "d4ca0320457e23e949ae3858382c9068"
+    "signature" => "eee04be611daadf2d292bf905d30e0c6e21d2175"
+    "width" => 600
+    "height" => 1200
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-12T09:17:50Z"
+    "tags" => []
+    "bytes" => 111167
+    "type" => "upload"
+    "etag" => "5093ebd6c5fd2b5716da78824de821d8"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620811070/demo/pmc/assets/dpwjacfpmuwdlexnb4ak.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620811070/demo/pmc/assets/dpwjacfpmuwdlexnb4ak.png"
+    "original_filename" => "democib_large_rectangle_empty"
+  ]
+
+
+Empty Image [sky_scrapper]
+democib_sky_scrapper_empty.png
+array:18 [
+    "asset_id" => "4a3749df977536c3ff48ee2ea6b7a085"
+    "public_id" => "demo/pmc/assets/fxuvcy2eiccoaovphhe3"
+    "version" => 1620812964
+    "version_id" => "e3421efe34f9c8c585108c25a8c08a7e"
+    "signature" => "2f8c8eb383779f3403240558468fc42bff4ab56b"
+    "width" => 240
+    "height" => 1200
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-12T09:49:24Z"
+    "tags" => []
+    "bytes" => 67674
+    "type" => "upload"
+    "etag" => "94ddb782133d59805a919580bc8ff812"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620812964/demo/pmc/assets/fxuvcy2eiccoaovphhe3.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620812964/demo/pmc/assets/fxuvcy2eiccoaovphhe3.png"
+    "original_filename" => "democib_sky_scrapper_empty"
+  ]
+
+
+Empty Image [leaderboard]
+democib_leader_board_empty.png
+array:18 [
+    "asset_id" => "244a7b922722772bd0619a8ed1ea1ec7"
+    "public_id" => "demo/pmc/assets/v79pkvwfnet3w7ky60mt"
+    "version" => 1620813697
+    "version_id" => "9db952cfbbcc806c639be4bcc2af4cd9"
+    "signature" => "bc77d4a03778b805ab60dd5521b8ddf0e80fa661"
+    "width" => 1456
+    "height" => 180
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-12T10:01:37Z"
+    "tags" => []
+    "bytes" => 31146
+    "type" => "upload"
+    "etag" => "8e328660e2e4c2e8de9e7e64579c103d"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620813697/demo/pmc/assets/v79pkvwfnet3w7ky60mt.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620813697/demo/pmc/assets/v79pkvwfnet3w7ky60mt.png"
+    "original_filename" => "democib_leader_board_empty"
+  ]
+
+
+Empty Image [medium_rectangle]
+democib_small_rectangle_empty.png
+array:18 [
+    "asset_id" => "c925e5ccf80a0621c722485895751b95"
+    "public_id" => "demo/pmc/assets/uuynwmb0b34owmxxz35n"
+    "version" => 1620813832
+    "version_id" => "acd9952bb652dd8b442e6f29fab7fac4"
+    "signature" => "6c0d452500a32e15ab5c4fb4513613f1e0769a86"
+    "width" => 600
+    "height" => 500
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-12T10:03:52Z"
+    "tags" => []
+    "bytes" => 28525
+    "type" => "upload"
+    "etag" => "c541a5761986cd12258825338884535d"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620813832/demo/pmc/assets/uuynwmb0b34owmxxz35n.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620813832/demo/pmc/assets/uuynwmb0b34owmxxz35n.png"
+    "original_filename" => "democib_small_rectangle_empty"
+  ]
+
+
+Empty Image [mobile]
+democib_mobile_empty.png
+array:18 [
+    "asset_id" => "68aa6aad408016802d67da46fce9e962"
+    "public_id" => "demo/pmc/assets/gy9olya0vwk1xramnliz"
+    "version" => 1620813935
+    "version_id" => "31b2b51edb46dd2119b11e80a0f46126"
+    "signature" => "df312fb2b572480fb99368461eeb03663a9505bc"
+    "width" => 640
+    "height" => 100
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-12T10:05:35Z"
+    "tags" => []
+    "bytes" => 13328
+    "type" => "upload"
+    "etag" => "d9071cf8f192625e974e682c46936fb5"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620813935/demo/pmc/assets/gy9olya0vwk1xramnliz.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620813935/demo/pmc/assets/gy9olya0vwk1xramnliz.png"
+    "original_filename" => "democib_mobile_empty"
+  ]
+
+
+Empty Image [facebook]
+democib_facebook_empty.png
+array:18 [
+    "asset_id" => "1c27569e382e3da2b37ec92970911acb"
+    "public_id" => "demo/pmc/assets/vqjrw2il4euhktyufugo"
+    "version" => 1620814532
+    "version_id" => "a8495b8b01a1787c3a3f7387ce6437c0"
+    "signature" => "2fee1732a268e21e27b9119d1dde7588dacafa0a"
+    "width" => 2400
+    "height" => 1260
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-12T10:15:32Z"
+    "tags" => []
+    "bytes" => 396433
+    "type" => "upload"
+    "etag" => "ce9543cebf354dfcf08be0ba388dd3c0"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620814532/demo/pmc/assets/vqjrw2il4euhktyufugo.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620814532/demo/pmc/assets/vqjrw2il4euhktyufugo.png"
+    "original_filename" => "democib_facebook_empty"
+  ]
+
+
+
+Empty Image [instagram]
+democib_instagram_empty.png
+array:18 [
+    "asset_id" => "a63389cd2e40a9a4e219a82aee26a509"
+    "public_id" => "demo/pmc/assets/zapdjnxn7toqijvsyimu"
+    "version" => 1620814999
+    "version_id" => "2d662e6fd86e5e7a982782cc8883b8f4"
+    "signature" => "df84dffd8527b281a8a10f24391ac6cbefb71ac1"
+    "width" => 2160
+    "height" => 2160
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-12T10:23:19Z"
+    "tags" => []
+    "bytes" => 624985
+    "type" => "upload"
+    "etag" => "7ee22936050e950ea2641bb2f08ad6de"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620814999/demo/pmc/assets/zapdjnxn7toqijvsyimu.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620814999/demo/pmc/assets/zapdjnxn7toqijvsyimu.png"
+    "original_filename" => "democib_instagram_empty"
+  ]
+
+
+
+Empty Image[linkedin]
+democib_linkedin_empty.png
+array:18 [
+    "asset_id" => "06193bf6da35d79f33994343b77cf4a6"
+    "public_id" => "demo/pmc/assets/sk7zr9nknlaksygacynw"
+    "version" => 1620815132
+    "version_id" => "09b1485842dcb2ade2023d02707ec068"
+    "signature" => "15c592ee4b0987e114b938c222dbdc651dd6afae"
+    "width" => 3168
+    "height" => 1536
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-12T10:25:32Z"
+    "tags" => []
+    "bytes" => 559078
+    "type" => "upload"
+    "etag" => "79b909c9fbbafb210a05b7ecc816b628"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620815132/demo/pmc/assets/sk7zr9nknlaksygacynw.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620815132/demo/pmc/assets/sk7zr9nknlaksygacynw.png"
+    "original_filename" => "democib_linkedin_empty"
+  ]
+
+
+
+Empty Image[twitter]
+democib_twitter_empty.png
+array:18 [
+    "asset_id" => "0c812c78a86eed1053bcfc581ab539ba"
+    "public_id" => "demo/pmc/assets/fbyy2l2glibyoilwxzlx"
+    "version" => 1620815262
+    "version_id" => "1f1101c28332d0a66e58b4e06e036df5"
+    "signature" => "58a6c8b9cfb222341334f3f808f4fbc1e6162c6e"
+    "width" => 1800
+    "height" => 900
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-12T10:27:42Z"
+    "tags" => []
+    "bytes" => 230249
+    "type" => "upload"
+    "etag" => "ee40c675722e9fa3af3ce434c895e1f0"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620815262/demo/pmc/assets/fbyy2l2glibyoilwxzlx.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620815262/demo/pmc/assets/fbyy2l2glibyoilwxzlx.png"
+    "original_filename" => "democib_twitter_empty"
+  ]
+

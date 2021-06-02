@@ -1,0 +1,436 @@
+Blue
+
+Featured Image
+blue_featured.png
+array:18 [
+    "asset_id" => "fca7dd237c80ab4d3568c71734152276"
+    "public_id" => "pmc/assets/mau1aliscgkwhx8lk1ui"
+    "version" => 1619119240
+    "version_id" => "b294cbf44f541672ee4bbfd41ded2af7"
+    "signature" => "cd15425c08e16f1bb4e83ac3054c86a855f29d06"
+    "width" => 300
+    "height" => 600
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-22T19:20:40Z"
+    "tags" => []
+    "bytes" => 46226
+    "type" => "upload"
+    "etag" => "45a0b02d37488515d966d852dffee5c8"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1619119240/pmc/assets/mau1aliscgkwhx8lk1ui.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1619119240/pmc/assets/mau1aliscgkwhx8lk1ui.png"
+    "original_filename" => "blue_large_rectangle_featured"
+  ]
+array:18 [
+    "asset_id" => "abdeb3b9b54e5e0e2588729e0235334a"
+    "public_id" => "pmc/assets/mi6a4hncq74xbwqktfvg"
+    "version" => 1619699329
+    "version_id" => "88f9ebd62e4bc55cbda3619a012cfe68"
+    "signature" => "11add4b717336d6eb59b7be037002ffc321f77da"
+    "width" => 300
+    "height" => 600
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-29T12:28:49Z"
+    "tags" => []
+    "bytes" => 46616
+    "type" => "upload"
+    "etag" => "07c07e7f5719258da70311bc198e0266"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1619699329/pmc/assets/mi6a4hncq74xbwqktfvg.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1619699329/pmc/assets/mi6a4hncq74xbwqktfvg.png"
+    "original_filename" => "blue_large_rectangle_featured"
+  ]
+
+
+Feature -- No Badge :: array:18 [
+                           "asset_id" => "479ec7bb9e7432e8ed646434ae104dc6"
+                           "public_id" => "pmc/assets/wjvs8rt1rgvsyavsmnlj"
+                           "version" => 1618303039
+                           "version_id" => "9c240f0d3823a2a261029f59637394e8"
+                           "signature" => "e419ffbf50359d65fc33f64aec9465cc6b19fee3"
+                           "width" => 300
+                           "height" => 600
+                           "format" => "png"
+                           "resource_type" => "image"
+                           "created_at" => "2021-04-13T08:37:19Z"
+                           "tags" => []
+                           "bytes" => 75763
+                           "type" => "upload"
+                           "etag" => "69181a75ef6a7a235822eb79e02dc100"
+                           "placeholder" => false
+                           "url" => "http://res.cloudinary.com/pierry/image/upload/v1618303039/pmc/assets/wjvs8rt1rgvsyavsmnlj.png"
+                           "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1618303039/pmc/assets/wjvs8rt1rgvsyavsmnlj.png"
+                           "original_filename" => "blue_large_rectangle_fueatured"
+                         ]
+
+
+Empty Image [large_rectangle]
+blue_large_rectangle_empty.png
+array:18 [
+    "asset_id" => "71a32487d8a696c8adb4a90e32b93e41"
+    "public_id" => "pmc/assets/nz6wrpsy2wqjawj3e8ua"
+    "version" => 1619118607
+    "version_id" => "d64d6038db88a68670a9e4a458ca722a"
+    "signature" => "7dd27f8b829da869a500a87819381c603af89ed2"
+    "width" => 300
+    "height" => 600
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-22T19:10:07Z"
+    "tags" => []
+    "bytes" => 15066
+    "type" => "upload"
+    "etag" => "08f652d181d8c94cc5334c9857de4710"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1619118607/pmc/assets/nz6wrpsy2wqjawj3e8ua.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1619118607/pmc/assets/nz6wrpsy2wqjawj3e8ua.png"
+    "original_filename" => "blue_large_rectangle_empty"
+  ]
+
+
+Empty Image [sky_scrapper]
+blue_sky_scrapper_empty.png
+array:18 [
+    "asset_id" => "2618864dca4e47a9433944922114791e"
+    "public_id" => "pmc/assets/sps63cf91rbfhagrxm1z"
+    "version" => 1619118655
+    "version_id" => "4e8f5795c203dab516d8be519ea7a8d6"
+    "signature" => "d978ee2e903d903076de689565fd704e8329d594"
+    "width" => 120
+    "height" => 600
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-22T19:10:55Z"
+    "tags" => []
+    "bytes" => 9533
+    "type" => "upload"
+    "etag" => "b3ca481bf6d4df07fd2a138e2696f90c"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1619118655/pmc/assets/sps63cf91rbfhagrxm1z.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1619118655/pmc/assets/sps63cf91rbfhagrxm1z.png"
+    "original_filename" => "blue_sky_scrapper_empty"
+  ]
+
+
+Empty Image [medium_rectangle]
+blue_medium_rectangle_empty.png
+array:18 [
+    "asset_id" => "d2495d8ad995084356f6eb73bf7a6057"
+    "public_id" => "pmc/assets/tkxjyky4vmofemiayqfp"
+    "version" => 1619118774
+    "version_id" => "f6101f26aa18d842e95d3c58bedf59b5"
+    "signature" => "4c2a7ed1a62e024ab80caf0256282b38cd3f6df1"
+    "width" => 300
+    "height" => 250
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-22T19:12:54Z"
+    "tags" => []
+    "bytes" => 8097
+    "type" => "upload"
+    "etag" => "eb03bf5507674be5422d2d1cae6285f7"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1619118774/pmc/assets/tkxjyky4vmofemiayqfp.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1619118774/pmc/assets/tkxjyky4vmofemiayqfp.png"
+    "original_filename" => "blue_medium_rectangle_empty"
+  ]
+
+
+Empty Image [mobile]
+blue_mobile_empty.png
+array:18 [
+    "asset_id" => "6e222a659569b0a315dca0b6246dda1c"
+    "public_id" => "pmc/assets/voc2bo8w0xjwgbe1yq70"
+    "version" => 1619118802
+    "version_id" => "d7371790ef5e96492968cbc55769c154"
+    "signature" => "7d67876aa5c27751d34f743296830d00599fdc7e"
+    "width" => 320
+    "height" => 50
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-22T19:13:22Z"
+    "tags" => []
+    "bytes" => 3263
+    "type" => "upload"
+    "etag" => "bb73330138e0fc36e0786dbb3e7868b0"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1619118802/pmc/assets/voc2bo8w0xjwgbe1yq70.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1619118802/pmc/assets/voc2bo8w0xjwgbe1yq70.png"
+    "original_filename" => "blue_mobile_empty"
+  ]
+
+
+Empty Image [leader_board]
+blue_leader_board_empty.png
+array:18 [
+    "asset_id" => "8aefe96c65e59923975fc0d869a7b5e8"
+    "public_id" => "pmc/assets/yvm6m7inwiqb8iijy17k"
+    "version" => 1619118835
+    "version_id" => "468f7c76117d39ad312ca147d4b86950"
+    "signature" => "6996e673ef87d6d42f35c1cf041daf13cae00cb9"
+    "width" => 728
+    "height" => 90
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-22T19:13:55Z"
+    "tags" => []
+    "bytes" => 7287
+    "type" => "upload"
+    "etag" => "94006c7a844c69bdf4050ffec674a917"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1619118835/pmc/assets/yvm6m7inwiqb8iijy17k.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1619118835/pmc/assets/yvm6m7inwiqb8iijy17k.png"
+    "original_filename" => "blue_leader_board_empty"
+  ]
+
+
+------------------------------------------------------------------------
+
+
+Graph Image
+blue_graph.png
+array:18 [
+    "asset_id" => "07863969e4175d53913c813b1fe81c4c"
+    "public_id" => "pmc/assets/kg8x7ocaxip1bqb7ckup"
+    "version" => 1617433154
+    "version_id" => "9a8c4be9ba44b30dec4cb6228fd18e64"
+    "signature" => "8e9277c1fe3ee99c4ac0dd0533fa7c6b366b180a"
+    "width" => 269
+    "height" => 68
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-03T06:59:14Z"
+    "tags" => []
+    "bytes" => 5940
+    "type" => "upload"
+    "etag" => "fde1aa74d198a5f34e118457fb25122f"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1617433154/pmc/assets/kg8x7ocaxip1bqb7ckup.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1617433154/pmc/assets/kg8x7ocaxip1bqb7ckup.png"
+    "original_filename" => "blue_graph"
+  ]
+
+
+
+
+
+
+
+-----------------------------------------------------------------------
+
+Old Empty Image [large_rectangle] - with graph
+blue_empty.png
+array:18 [
+    "asset_id" => "8300b0b1b4f98917b03cbb5ac9e8a43f"
+    "public_id" => "pmc/assets/q5vgk5uezffwdbaizgft"
+    "version" => 1616407151
+    "version_id" => "4798e6221decee81fb82b0db2590704d"
+    "signature" => "ded3c7b916eea50338d7a0369ac3a080744028ac"
+    "width" => 300
+    "height" => 600
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-03-22T09:59:11Z"
+    "tags" => []
+    "bytes" => 36999
+    "type" => "upload"
+    "etag" => "385a1f844ba150ece0927ab3e5095dfb"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1616407151/pmc/assets/q5vgk5uezffwdbaizgft.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1616407151/pmc/assets/q5vgk5uezffwdbaizgft.png"
+    "original_filename" => "blue_empty"
+  ]
+
+
+Old Empty Image [medium_rectangle] - with graph
+blue_medium_rectangle_empty.png
+array:18 [
+    "asset_id" => "3c2bf885e9b67cb58486f487ee3ee96c"
+    "public_id" => "pmc/assets/ca1xey9ilf6e3vzd3chz"
+    "version" => 1616673448
+    "version_id" => "739ec80fab8b107029cbd23deedd13ce"
+    "signature" => "7df1d16ad3f37d49aeec2b4a91350c3b33a3ca79"
+    "width" => 300
+    "height" => 250
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-03-25T11:57:28Z"
+    "tags" => []
+    "bytes" => 15659
+    "type" => "upload"
+    "etag" => "0443db8b706fc7007e3072ef65be39ab"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1616673448/pmc/assets/ca1xey9ilf6e3vzd3chz.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1616673448/pmc/assets/ca1xey9ilf6e3vzd3chz.png"
+    "original_filename" => "blue_medium_rectangle_empty"
+  ]
+
+
+------------------------------------------
+
+Empty Image [large_rectangle] With Badge
+blue_empty.png
+array:18 [
+    "asset_id" => "164df2b6c2248002b148c091480f7801"
+    "public_id" => "pmc/assets/gaj345s2zvh7ylzuiyth"
+    "version" => 1617434237
+    "version_id" => "0ca9849e08d9ed7234b0d9474aca0e78"
+    "signature" => "14e2a20b0d91681d6a9694bf918a6bef443255a5"
+    "width" => 300
+    "height" => 600
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-03T07:17:17Z"
+    "tags" => []
+    "bytes" => 22224
+    "type" => "upload"
+    "etag" => "ffec6cc2f68edfc9a108308ee4ccefd0"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1617434237/pmc/assets/gaj345s2zvh7ylzuiyth.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1617434237/pmc/assets/gaj345s2zvh7ylzuiyth.png"
+    "original_filename" => "blue_large_rectangle_empty"
+  ]
+
+
+Empty Image [sky_scrapper] With Badge
+blue_sky_scrapper_empty.png
+array:18 [
+    "asset_id" => "f001b5e8220f75ddc737af5a7e7327b5"
+    "public_id" => "pmc/assets/vv4aio4vq45o0shixite"
+    "version" => 1616672668
+    "version_id" => "3ed75d7c54065309dd50ed0813ff0c56"
+    "signature" => "1f7f759c174cbd26e1733f55b474e47946fb785b"
+    "width" => 120
+    "height" => 600
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-03-25T11:44:28Z"
+    "tags" => []
+    "bytes" => 13153
+    "type" => "upload"
+    "etag" => "e356365123b92502250364ac8793d9a3"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1616672668/pmc/assets/vv4aio4vq45o0shixite.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1616672668/pmc/assets/vv4aio4vq45o0shixite.png"
+    "original_filename" => "blue_sky_scrapper_empty"
+  ]
+
+Empty Image [medium_rectangle] With Badge
+blue_medium_rectangle_empty.png
+array:18 [
+    "asset_id" => "a21f4188d2b9c874b5aa8e3c20b35391"
+    "public_id" => "pmc/assets/amddkm8czglfre1nflzz"
+    "version" => 1617434339
+    "version_id" => "35e2b797059df67de1467f7907e8c6f1"
+    "signature" => "0d82fa5bf515aa5547145c423c2147496e4678a5"
+    "width" => 300
+    "height" => 250
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-03T07:18:59Z"
+    "tags" => []
+    "bytes" => 10283
+    "type" => "upload"
+    "etag" => "1cb45ed49b5fb8eeca8662ec28f12359"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1617434339/pmc/assets/amddkm8czglfre1nflzz.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1617434339/pmc/assets/amddkm8czglfre1nflzz.png"
+    "original_filename" => "blue_medium_rectangle_empty"
+  ]
+
+Empty Image [mobile] With Badge
+blue_mobile_empty.png
+ array:18 [
+    "asset_id" => "7973a7c6948215b8b0915b62dd65ec23"
+    "public_id" => "pmc/assets/u9mjugicznwvxqkw9kb6"
+    "version" => 1616673727
+    "version_id" => "36a4c2ab53e607817da338359ffcf1fa"
+    "signature" => "ba681bcce6650fa7d604f0bce4f5cb5dca40e344"
+    "width" => 320
+    "height" => 50
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-03-25T12:02:07Z"
+    "tags" => []
+    "bytes" => 3527
+    "type" => "upload"
+    "etag" => "78abcbbf826fd8627a8f0ad2b9c202be"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1616673727/pmc/assets/u9mjugicznwvxqkw9kb6.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1616673727/pmc/assets/u9mjugicznwvxqkw9kb6.png"
+    "original_filename" => "blue_mobile_empty"
+  ]
+
+Empty Image [leader_board] With Badge
+blue_leader_board_empty.png
+array:18 [
+    "asset_id" => "c7bfc54fe02b714ae9d3ee579a20b654"
+    "public_id" => "pmc/assets/f8vqimepxeiaeewqaasr"
+    "version" => 1616673949
+    "version_id" => "2a19fc28c70d2525f7755f1868e505c0"
+    "signature" => "bae01a776ef16f511c3f86308547a22dd1d93922"
+    "width" => 728
+    "height" => 90
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-03-25T12:05:49Z"
+    "tags" => []
+    "bytes" => 7585
+    "type" => "upload"
+    "etag" => "9e8fabb8c6536d4c179110cc24845471"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1616673949/pmc/assets/f8vqimepxeiaeewqaasr.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1616673949/pmc/assets/f8vqimepxeiaeewqaasr.png"
+    "original_filename" => "blue_leader_board_empty"
+  ]
+
+-----------------------------------------------------
+
+Graph Image
+blue_graph.png
+array:18 [
+    "asset_id" => "07863969e4175d53913c813b1fe81c4c"
+    "public_id" => "pmc/assets/kg8x7ocaxip1bqb7ckup"
+    "version" => 1617433154
+    "version_id" => "9a8c4be9ba44b30dec4cb6228fd18e64"
+    "signature" => "8e9277c1fe3ee99c4ac0dd0533fa7c6b366b180a"
+    "width" => 269
+    "height" => 68
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-03T06:59:14Z"
+    "tags" => []
+    "bytes" => 5940
+    "type" => "upload"
+    "etag" => "fde1aa74d198a5f34e118457fb25122f"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1617433154/pmc/assets/kg8x7ocaxip1bqb7ckup.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1617433154/pmc/assets/kg8x7ocaxip1bqb7ckup.png"
+    "original_filename" => "blue_graph"
+  ]
+
+
+------------------------------------------------------
+Intel Logo
+array:18 [
+    "asset_id" => "47722a9b73c5ba61dbf4cc09a7bbc365"
+    "public_id" => "pmc/assets/dvd3kr6fg9wywigrqnqd"
+    "version" => 1618408260
+    "version_id" => "e94a4e8b92cc0df21c7b1236a2934a63"
+    "signature" => "096f9ef46ea1a6ce46980399cb5be128682e3bac"
+    "width" => 1000
+    "height" => 400
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-14T13:51:00Z"
+    "tags" => []
+    "bytes" => 85620
+    "type" => "upload"
+    "etag" => "a9c9de8a098ad49bcdeffc1706995f78"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1618408260/pmc/assets/dvd3kr6fg9wywigrqnqd.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1618408260/pmc/assets/dvd3kr6fg9wywigrqnqd.png"
+    "original_filename" => "intel-logo"
+  ]

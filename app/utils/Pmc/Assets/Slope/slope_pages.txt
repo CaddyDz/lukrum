@@ -1,0 +1,69 @@
+Empty Image [landing]
+array:18 [
+    "asset_id" => "a9db5fd211bbbf635f044545d97e24ad"
+    "public_id" => "pmc/assets/q5qcaiynol9efqjvmru5"
+    "version" => 1618497084
+    "version_id" => "b85b6f5d472db2693ff7b61be94eaa6d"
+    "signature" => "68c6a802b5b311c1247271d669f1ede731b217fa"
+    "width" => 2048
+    "height" => 2288
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-15T14:31:24Z"
+    "tags" => []
+    "bytes" => 173294
+    "type" => "upload"
+    "etag" => "e9feed9d41e0732dd8ac3290de5377bd"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1618497084/pmc/assets/q5qcaiynol9efqjvmru5.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1618497084/pmc/assets/q5qcaiynol9efqjvmru5.png"
+    "original_filename" => "slope_landing_empty"
+  ]
+
+
+Empty Page [one_page]
+array:18 [
+    "asset_id" => "c672dba65adb30aace6d7fca14ed9a8a"
+    "public_id" => "pmc/assets/tckptea3n2emxai9zbom"
+    "version" => 1620212225
+    "version_id" => "17d81783e9c12f6fb472db5dfaee0e7b"
+    "signature" => "21416501266a413195b4dd55b3ab518bf7a0f278"
+    "width" => 612
+    "height" => 792
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-05T10:57:05Z"
+    "tags" => []
+    "bytes" => 16957
+    "type" => "upload"
+    "etag" => "080906988e68f4ee30e0e4342677b1a7"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620212225/pmc/assets/tckptea3n2emxai9zbom.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620212225/pmc/assets/tckptea3n2emxai9zbom.png"
+    "original_filename" => "slope_one_page_empty"
+  ]
+
+
+
+
+[empty onepage with footer]
+array:18 [
+    "asset_id" => "f8c3b20efb7e3eaa05087faf39d9c8a3"
+    "public_id" => "pmc/assets/i0ppk70wqtmbtondwovs"
+    "version" => 1618570780
+    "version_id" => "20ec2b3e9a86e311a2091482fbe462de"
+    "signature" => "e6a68cb1293c32818aee9cbc11d44404e9b7fbff"
+    "width" => 612
+    "height" => 792
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-16T10:59:40Z"
+    "tags" => []
+    "bytes" => 28630
+    "type" => "upload"
+    "etag" => "c0e69104e34c3acd6bf5cfd3a461f11f"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1618570780/pmc/assets/i0ppk70wqtmbtondwovs.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1618570780/pmc/assets/i0ppk70wqtmbtondwovs.png"
+    "original_filename" => "slope_one_page_empty"
+  ]

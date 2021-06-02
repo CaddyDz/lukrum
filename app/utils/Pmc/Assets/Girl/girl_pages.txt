@@ -1,0 +1,113 @@
+Empty Image [landing]
+array:18 [
+    "asset_id" => "40e76eac8fb92d24539e7399e4d951e7"
+    "public_id" => "pmc/assets/mquluhahuz8shhljijhi"
+    "version" => 1618506849
+    "version_id" => "162692a2181bd2acb4be754143cdbc34"
+    "signature" => "0170ecadc0d9f45f1afc96dddcb288234a12957e"
+    "width" => 2048
+    "height" => 2288
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-15T17:14:09Z"
+    "tags" => []
+    "bytes" => 171993
+    "type" => "upload"
+    "etag" => "2c2da40e2198b50149e908ff70192c2f"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1618506849/pmc/assets/mquluhahuz8shhljijhi.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1618506849/pmc/assets/mquluhahuz8shhljijhi.png"
+    "original_filename" => "girl_landing_empty"
+  ]
+
+
+Overlay Image [landing]
+array:18 [
+    "asset_id" => "213e110be128d32336a6abd21dbe6c2c"
+    "public_id" => "pmc/assets/ifreslntxr3qvmt2zjlt"
+    "version" => 1618506872
+    "version_id" => "dd29be177cbebf85eb3b918af73ce58b"
+    "signature" => "214320f2f54fc6244a074d3fa1d33362c1b5257b"
+    "width" => 1144
+    "height" => 986
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-15T17:14:32Z"
+    "tags" => []
+    "bytes" => 1918796
+    "type" => "upload"
+    "etag" => "241adab1d7f6391c33b1285d9e28efa1"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1618506872/pmc/assets/ifreslntxr3qvmt2zjlt.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1618506872/pmc/assets/ifreslntxr3qvmt2zjlt.png"
+    "original_filename" => "girl_landing_layover"
+  ]
+
+Empty Image [one_page]
+girl_one_page_empty.png
+array:18 [
+    "asset_id" => "77ae8e4a00df08344bcc52d68b863e97"
+    "public_id" => "pmc/assets/lbi0x3pa2xcmwuim3br0"
+    "version" => 1620212394
+    "version_id" => "88e4d80a9eb242c3a518733f208d770d"
+    "signature" => "44cb3b04a45f9851f79bc47f19dd495bb6c815a3"
+    "width" => 612
+    "height" => 792
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-05-05T10:59:54Z"
+    "tags" => []
+    "bytes" => 27176
+    "type" => "upload"
+    "etag" => "55b6b9dd39c363f92a14ad2e654d5969"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1620212394/pmc/assets/lbi0x3pa2xcmwuim3br0.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620212394/pmc/assets/lbi0x3pa2xcmwuim3br0.png"
+    "original_filename" => "girl_one_page_empty"
+  ]
+
+[onepage with footer]
+array:18 [
+    "asset_id" => "05f937ee788b987b7e475a9c83db2f88"
+    "public_id" => "pmc/assets/zoky6htcarfhikencd44"
+    "version" => 1618584220
+    "version_id" => "fc442bc816478e89f37c75bd6feefc40"
+    "signature" => "a569b6c294fd5196bfc0d79a8c7e4157d06c760b"
+    "width" => 612
+    "height" => 792
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-16T14:43:40Z"
+    "tags" => []
+    "bytes" => 37261
+    "type" => "upload"
+    "etag" => "bb90464b1c384166bf6542427e0c5dcf"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1618584220/pmc/assets/zoky6htcarfhikencd44.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1618584220/pmc/assets/zoky6htcarfhikencd44.png"
+    "original_filename" => "girl_one_page_empty"
+  ]
+
+
+Overlay Image [one_page]
+girl_one_page_layover.png
+array:18 [
+    "asset_id" => "14d64c12461c781438fffa9e47c24651"
+    "public_id" => "pmc/assets/gdcjdt6ndujszlof4bhs"
+    "version" => 1618584271
+    "version_id" => "bee0dcf2f2bca73a3c12df32df0e970a"
+    "signature" => "e3afc24ca4175f8905d88bd88d55f4d1324f3d80"
+    "width" => 304
+    "height" => 203
+    "format" => "png"
+    "resource_type" => "image"
+    "created_at" => "2021-04-16T14:44:31Z"
+    "tags" => []
+    "bytes" => 150416
+    "type" => "upload"
+    "etag" => "2ec8f3e4188c2751dec1f2c460cdd2dd"
+    "placeholder" => false
+    "url" => "http://res.cloudinary.com/pierry/image/upload/v1618584271/pmc/assets/gdcjdt6ndujszlof4bhs.png"
+    "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1618584271/pmc/assets/gdcjdt6ndujszlof4bhs.png"
+    "original_filename" => "girl_one_page_layover"
+  ]

@@ -1,0 +1,24 @@
+Email Background Image
+array:18 [
+     "asset_id" => "824cd67af0a9f2bfb0e70de528d1cc59"
+     "public_id" => "pmc/assets/tsrosdvisdem76sosibz"
+     "version" => 1620391555
+     "version_id" => "992996e07b6b3b15bbbbaac45a2033eb"
+     "signature" => "6cc75574a57311bfa01545fcbe5d9b935f7fae55"
+     "width" => 1100
+     "height" => 733
+     "format" => "png"
+     "resource_type" => "image"
+     "created_at" => "2021-05-07T12:45:55Z"
+     "tags" => []
+     "bytes" => 665333
+     "type" => "upload"
+     "etag" => "d615551522fe0fe51987bb8212d16a76"
+     "placeholder" => false
+     "url" => "http://res.cloudinary.com/pierry/image/upload/v1620391555/pmc/assets/tsrosdvisdem76sosibz.png"
+     "secure_url" => "https://res.cloudinary.com/pierry/image/upload/v1620391555/pmc/assets/tsrosdvisdem76sosibz.png"
+     "original_filename" => "demo-email-bg"
+   ]
+
+
+/img/pierry-logo-dark.png
