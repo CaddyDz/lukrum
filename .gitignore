@@ -1,0 +1,27 @@
+/node_modules
+/public/hot
+/public/storage
+# Compiled frontend bundles
+/public/css/app.css
+/public/js/app.js
+# Package static assets
+/public/vendor
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+_ide_helper.php
+.phpstorm.meta.php
+.php_cs.cache
+# Package language files
+resources/lang/vendor
+# Generated Swagger API docs
+storage/api-docs
+# Vagrant generated files
+.vagrant
+# Laravel debug bar
+storage/debugbar/
+.DS_Store

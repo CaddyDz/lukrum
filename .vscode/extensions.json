@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"austenc.laravel-blade-spacer",
+		"bmewburn.vscode-intelephense-client",
+		"editorconfig.editorconfig",
+		"icrawl.discord-vscode",
+		"junstyle.php-cs-fixer",
+		"onecentlin.laravel-blade",
+		"wakatime.vscode-wakatime",
+		"wix.vscode-import-cost"
+	]
+}
