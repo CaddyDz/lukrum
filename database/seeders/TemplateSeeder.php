@@ -16,7 +16,7 @@ class TemplateSeeder extends Seeder
 	 */
 	public function run(): void
 	{
-		for ($i=0; $i < 5; $i++) {
+		for ($i=1; $i < 5; $i++) {
 			Template::factory()->create([
 				'name' => 'Template ' . (string) $i,
 			]);

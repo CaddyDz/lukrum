@@ -7,14 +7,14 @@ keys:
     - ~/.ssh/id_ed25519
 folders:
     -
-        map: ~/Sites/laravel
+        map: ~/Sites/lukrum
         to: /home/vagrant/code
 sites:
     -
-        map: laravel.local
+        map: lukrum.local
         to: /home/vagrant/code/public
 databases:
-    - laravel
+    - lukrum
 features:
     -
         mysql: true
@@ -26,5 +26,5 @@ features:
         ohmyzsh: true
     -
         webdriver: false
-name: laravel
-hostname: laravel
+name: lukrum
+hostname: lukrum

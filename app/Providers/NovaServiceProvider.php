@@ -19,6 +19,7 @@ class NovaServiceProvider extends NovaApplicationServiceProvider
 	{
 		parent::boot();
 		Nova::sortResourcesBy(fn ($resource) => $resource::$priority ?? 9999);
+		Nova::serving(fn () => Nova::style('lukrum', resource_path('css/app.css')));
 	}
 
 	/**

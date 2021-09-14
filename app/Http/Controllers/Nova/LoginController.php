@@ -9,15 +9,15 @@ use Laravel\Nova\Http\Controllers\LoginController as Controller;
 
 class LoginController extends Controller
 {
-	// /**
-	//  * Get the post register / login redirect path.
-	//  *
-	//  * @return string
-	//  */
-	// public function redirectPath(): string
-	// {
-	// 	return config('nova.path') . '/resources/users';
-	// }
+	/**
+	 * Get the post register / login redirect path.
+	 *
+	 * @return string
+	 */
+	public function redirectPath(): string
+	{
+		return config('app.url') . '/resources/templates';
+	}
 
 	protected function sendLoginResponse(Request $request)
 	{
