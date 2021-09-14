@@ -7,6 +7,7 @@ namespace App\Nova;
 use Illuminate\Http\Request;
 use App\Nova\Actions\CreateEmail;
 use Laravel\Nova\Fields\{ID, Text, Trix};
+use NumaxLab\NovaCKEditor5Classic\CKEditor5Classic;
 
 class Template extends Resource
 {
@@ -45,6 +46,7 @@ class Template extends Resource
 			ID::make(__('ID'), 'id')->sortable(),
 			Text::make(__('Name'), 'name')->sortable()->required(),
 			Trix::make(__('Content'), 'content')->required(),
+			// CKEditor5Classic::make('Content')->withFiles('public'),
 		];
 	}
 
