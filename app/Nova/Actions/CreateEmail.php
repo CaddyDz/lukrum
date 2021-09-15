@@ -6,6 +6,7 @@ namespace App\Nova\Actions;
 
 use Mail;
 use App\Mail\CopyMail;
+use App\Models\Template;
 use Illuminate\Bus\Queueable;
 use Laravel\Nova\Actions\Action;
 use Illuminate\Support\Collection;
@@ -17,6 +18,20 @@ class CreateEmail extends Action
 	use InteractsWithQueue, Queueable;
 
 	/**
+	 * The text to be used for the action's confirm button.
+	 *
+	 * @var string
+	 */
+	public $confirmButtonText = 'Send Email';
+
+	/**
+	 * The text to be used for the action's confirmation text.
+	 *
+	 * @var string
+	 */
+	public $confirmText = 'Are you sure you want to send this email?';
+
+	/**
 	 * Perform the action on the given models.
 	 *
 	 * @param \Laravel\Nova\Fields\ActionFields $fields
@@ -26,7 +41,7 @@ class CreateEmail extends Action
 	public function handle(ActionFields $fields, Collection $models)
 	{
 		foreach ($models as $model) {
-			Mail::to($fields->email)->send(new CopyMail($model->content));
+			Mail::to($fields->email)->send(new CopyMail($fields->content));
 		}
 	}
 
@@ -37,9 +52,11 @@ class CreateEmail extends Action
 	 */
 	public function fields(): array
 	{
+		$content = Template::first()->content;
 		return [
 			Text::make(__('Email'), 'email')->required(),
-			Trix::make(__('Content'), 'content')->required(),
+			Trix::make(__('Content'), 'content')->required()
+			->default(fn () => $content),
 		];
 	}
 }

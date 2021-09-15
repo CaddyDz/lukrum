@@ -31,6 +31,7 @@ class CopyMail extends Mailable
 	 */
 	public function build()
 	{
-		return $this->view('view.name');
+		return $this->from(auth()->user()->email, auth()->user()->name)
+				->html($this->html);
 	}
 }

@@ -6,6 +6,7 @@ namespace Database\Seeders;
 
 use App\Models\Template;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\Storage;
 
 class TemplateSeeder extends Seeder
 {
@@ -16,9 +17,12 @@ class TemplateSeeder extends Seeder
 	 */
 	public function run(): void
 	{
-		for ($i=1; $i < 5; $i++) {
+		$disk = Storage::disk('templates');
+		$files = $disk->allFiles();
+		foreach ($files as $file) {
 			Template::factory()->create([
-				'name' => 'Template ' . (string) $i,
+				'name' => str_replace('.html', '', $file),
+				'content' => $disk->get($file),
 			]);
 		}
 	}
