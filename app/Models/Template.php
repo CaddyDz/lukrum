@@ -6,6 +6,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\{Model, SoftDeletes};
+use Illuminate\Database\Eloquent\Relations\{BelongsTo, HasMany};
 
 /**
  * App\Models\Template
@@ -34,4 +35,14 @@ use Illuminate\Database\Eloquent\{Model, SoftDeletes};
 class Template extends Model
 {
 	use HasFactory, SoftDeletes;
+
+	public function user(): BelongsTo
+	{
+		return $this->belongsTo(User::class);
+	}
+
+	public function emails(): HasMany
+	{
+		return $this->hasMany(Email::class);
+	}
 }

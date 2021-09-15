@@ -14,6 +14,16 @@
 			</a>
 		</li>
 		<li>
+			<a href="/resources/emails" class="block no-underline text-90 hover:bg-30 p-3">
+				@lang('Emails')
+			</a>
+		</li>
+		<li>
+			<a href="/resources/users" class="block no-underline text-90 hover:bg-30 p-3">
+				@lang('Users')
+			</a>
+		</li>
+		<li>
 			<a href="{{ route('nova.logout') }}" class="block no-underline text-90 hover:bg-30 p-3">
 				@lang('Logout')
 			</a>

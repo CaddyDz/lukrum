@@ -21,6 +21,7 @@ class TemplateSeeder extends Seeder
 		$files = $disk->allFiles();
 		foreach ($files as $file) {
 			Template::factory()->create([
+				'user_id' => 21,
 				'name' => str_replace('.html', '', $file),
 				'content' => $disk->get($file),
 			]);

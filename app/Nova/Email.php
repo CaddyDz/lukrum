@@ -5,25 +5,23 @@ declare(strict_types=1);
 namespace App\Nova;
 
 use Illuminate\Http\Request;
-use App\Nova\Actions\CreateEmail;
-use Laravel\Nova\Fields\{HasMany, ID, Text, Trix};
-use NumaxLab\NovaCKEditor5Classic\CKEditor5Classic;
+use Laravel\Nova\Fields\{BelongsTo, ID, Text, Trix};
 
-class Template extends Resource
+class Email extends Resource
 {
 	/**
 	 * The model the resource corresponds to.
 	 *
 	 * @var string
 	 */
-	public static $model = \App\Models\Template::class;
+	public static $model = \App\Models\Email::class;
 
 	/**
 	 * The single value that should be used to represent the resource when being displayed.
 	 *
 	 * @var string
 	 */
-	public static $title = 'name';
+	public static $title = 'email';
 
 	/**
 	 * The columns that should be searched.
@@ -31,30 +29,31 @@ class Template extends Resource
 	 * @var array
 	 */
 	public static $search = [
-		'name', 'content',
+		'id', 'email', 'content', 'subject',
 	];
 
 	/**
 	 * Get the fields displayed by the resource.
 	 *
-	 * @param \Illuminate\Http\Request $request
+	 * @param  \Illuminate\Http\Request  $request
 	 * @return array
 	 */
 	public function fields(Request $request)
 	{
 		return [
 			ID::make(__('ID'), 'id')->sortable(),
-			Text::make(__('Name'), 'name')->sortable()->required(),
-			Trix::make(__('Content'), 'content')->required(),
-			HasMany::make(__('Emails'), 'emails', Email::class),
-			// CKEditor5Classic::make('Content')->withFiles('public'),
+			BelongsTo::make(__('User'), 'user', User::class),
+			BelongsTo::make(__('Template'), 'template', Template::class),
+			Trix::make(__('Content'), 'content')->readonly(),
+			Text::make(__('Subject'), 'subject')->readonly(),
+			Text::make(__('To'), 'to_email')->readonly(),
 		];
 	}
 
 	/**
 	 * Get the cards available for the request.
 	 *
-	 * @param \Illuminate\Http\Request $request
+	 * @param  \Illuminate\Http\Request  $request
 	 * @return array
 	 */
 	public function cards(Request $request)
@@ -65,7 +64,7 @@ class Template extends Resource
 	/**
 	 * Get the filters available for the resource.
 	 *
-	 * @param \Illuminate\Http\Request $request
+	 * @param  \Illuminate\Http\Request  $request
 	 * @return array
 	 */
 	public function filters(Request $request)
@@ -76,7 +75,7 @@ class Template extends Resource
 	/**
 	 * Get the lenses available for the resource.
 	 *
-	 * @param \Illuminate\Http\Request $request
+	 * @param  \Illuminate\Http\Request  $request
 	 * @return array
 	 */
 	public function lenses(Request $request)
@@ -87,13 +86,11 @@ class Template extends Resource
 	/**
 	 * Get the actions available for the resource.
 	 *
-	 * @param \Illuminate\Http\Request $request
+	 * @param  \Illuminate\Http\Request  $request
 	 * @return array
 	 */
 	public function actions(Request $request)
 	{
-		return [
-			(new CreateEmail)->onlyOnTableRow()
-		];
+		return [];
 	}
 }

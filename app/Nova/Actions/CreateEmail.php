@@ -6,9 +6,9 @@ namespace App\Nova\Actions;
 
 use Mail;
 use App\Mail\CopyMail;
-use App\Models\Template;
 use Illuminate\Bus\Queueable;
 use Laravel\Nova\Actions\Action;
+use App\Models\{Email, Template};
 use Illuminate\Support\Collection;
 use Illuminate\Queue\InteractsWithQueue;
 use Laravel\Nova\Fields\{ActionFields, Text, Trix};
@@ -42,6 +42,13 @@ class CreateEmail extends Action
 	{
 		foreach ($models as $model) {
 			Mail::to($fields->email)->send(new CopyMail($fields->content, $fields->subject));
+			Email::create([
+				'user_id' => auth()->id(),
+				'template_id' => 4,
+				'content' => $fields->content,
+				'subject' => $fields->subject,
+				'to_email' => $fields->email,
+			]);
 		}
 	}
 
