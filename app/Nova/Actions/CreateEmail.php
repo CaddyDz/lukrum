@@ -56,7 +56,7 @@ class CreateEmail extends Action
 		return [
 			Text::make(__('Email'), 'email')->required(),
 			Trix::make(__('Content'), 'content')->required()
-			->default(fn () => $content),
+				->default(fn () => $content),
 		];
 	}
 }
