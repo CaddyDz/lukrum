@@ -41,7 +41,7 @@ class CreateEmail extends Action
 	public function handle(ActionFields $fields, Collection $models)
 	{
 		foreach ($models as $model) {
-			Mail::to($fields->email)->send(new CopyMail($fields->content));
+			Mail::to($fields->email)->send(new CopyMail($fields->content, $fields->subject));
 		}
 	}
 
@@ -55,6 +55,7 @@ class CreateEmail extends Action
 		$content = Template::first()->content;
 		return [
 			Text::make(__('Email'), 'email')->required(),
+			Text::make(__('Subject'), 'subject')->required(),
 			Trix::make(__('Content'), 'content')->required()
 				->default(fn () => $content),
 		];
