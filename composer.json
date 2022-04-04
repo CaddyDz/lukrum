@@ -31,7 +31,7 @@
 		"barryvdh/laravel-ide-helper": "^2.9",
 		"brianium/paratest": "^6.2",
 		"facade/ignition": "^2.5",
-		"fakerphp/faker": "^1.12.1",
+		"fakerphp/faker": "^1.19.0",
 		"friendsofphp/php-cs-fixer": "^2.18",
 		"laravel/homestead": "^12.0",
 		"laravel/ui": "^3.1",
