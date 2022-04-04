@@ -27,7 +27,7 @@
 		"titasgailius/search-relations": "^1.0"
 	},
 	"require-dev": {
-		"barryvdh/laravel-debugbar": "^3.5",
+		"barryvdh/laravel-debugbar": "^3.6",
 		"barryvdh/laravel-ide-helper": "^2.9",
 		"brianium/paratest": "^6.2",
 		"facade/ignition": "^2.5",
