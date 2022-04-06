@@ -23,7 +23,7 @@
 		"laravel/scout": "^8.5",
 		"laravel/tinker": "^2.6",
 		"numaxlab/nova-ckeditor5-classic": "^1.1",
-		"sentry/sentry-laravel": "^2.3",
+		"sentry/sentry-laravel": "^2.12",
 		"titasgailius/search-relations": "^1.0"
 	},
 	"require-dev": {
