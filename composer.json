@@ -19,7 +19,7 @@
 		"laravel/framework": "^8.24",
 		"laravel/helpers": "^1.4",
 		"laravel/nova": "*",
-		"laravel/sanctum": "^2.8",
+		"laravel/sanctum": "^2.15",
 		"laravel/scout": "^8.5",
 		"laravel/tinker": "^2.6",
 		"numaxlab/nova-ckeditor5-classic": "^1.1",
